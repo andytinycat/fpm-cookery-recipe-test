@@ -9,7 +9,7 @@ GIT
       puppet
 
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.com/
   specs:
     arr-pm (0.0.7)
       cabin (> 0)
